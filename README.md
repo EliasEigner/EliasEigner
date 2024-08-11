@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @EliasEigner a German student studying Informatics at KIT
-- 👀 I’m interested in AI, Machine Learning, Data Science
-- 🌱 I’m currently learning C# in Unity
-- 📫 How to reach me: eignerelias12@gmail.com
+- 👋 Hi, I’m [@EliasEigner](https://github.com/EliasEigner), a German student studying Informatics at KIT.
+- 👀 I’m particularly interested in AI, Machine Learning, Data Science, and Game Development.
+- 🌱 I’m currently learning C# in Unity.
+- 🛠️ My skills include advanced Java programming, and Python basics.
+- 📫 How to reach me: eignerelias12@gmail.com | [LinkedIn](https://www.linkedin.com/in/elias-eigner/).
 
 <!---
 EliasEigner/EliasEigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
