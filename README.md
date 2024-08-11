@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EliasEigner a German student graduating from Gymnasium this year
+- 👋 Hi, I’m @EliasEigner a German student studying Informatics at KIT
 - 👀 I’m interested in AI, Machine Learning, Data Science
-- 🌱 I’m currently learning how to code in Python
+- 🌱 I’m currently learning C# in Unity
 - 📫 How to reach me: eignerelias12@gmail.com
 
 <!---
